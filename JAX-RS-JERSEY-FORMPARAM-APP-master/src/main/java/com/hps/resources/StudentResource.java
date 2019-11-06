@@ -7,7 +7,7 @@ import javax.ws.rs.core.Response;
 
 @Path("/student")
 public class StudentResource {
-        int x;
+      
 	/**
 	 * This method is used to handle Form submission
 	 * 
